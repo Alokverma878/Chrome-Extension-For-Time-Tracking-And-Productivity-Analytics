@@ -53,8 +53,8 @@ Chrome Extension API
 
 ### 2. 🧱 Start MongoDB
 
-# Windows: MongoDB runs automatically if installed as service
-# Or manually type in cmd: 
+ Windows: MongoDB runs automatically if installed as service
+ Or manually type in cmd: 
 mongod
 
 ---
