@@ -19,7 +19,7 @@ report** using a dashboard. All tracking data is stored in a **local Node.js + M
 
 ---
 
-## 🚀 Features
+### 🚀 Features
 
 - ✅ Tracks time spent on active browser tabs
 - ✅ Classifies websites into:
@@ -32,7 +32,7 @@ report** using a dashboard. All tracking data is stored in a **local Node.js + M
 
 ---
 
-📦 Technologies Used
+### 📦 Technologies Used
 Chrome Extension API
 
 * JavaScript (ES6)
@@ -58,7 +58,7 @@ Chrome Extension API
 mongod
 
 ---
-3. 🚀 Start Backend Server
+### 3. 🚀 Start Backend Server
      - cd TimeTracker/backend
      - npm install
      - node server.js
@@ -67,7 +67,7 @@ mongod
   Backend running on http://localhost:3000
 
 
-4. 🌐 Load Chrome Extension
+### 4. 🌐 Load Chrome Extension
 - Open Chrome and go to chrome://extensions/
 
 - Enable Developer mode
@@ -77,7 +77,7 @@ mongod
 - Select the TimeTracker/extension/ folder
 
 
-5. Using the Extension
+### 5. Using the Extension
 - Open websites like github.com, youtube.com, or example.com
 
 - The extension tracks how long you stay on each site
@@ -95,7 +95,7 @@ mongod
 -----
 
 
-## 📷 Screenshots
+### 📷 Screenshots
 
 
 ![Image](https://github.com/user-attachments/assets/5d1d1932-aec0-4c3e-aab6-38f341b7f76e)
