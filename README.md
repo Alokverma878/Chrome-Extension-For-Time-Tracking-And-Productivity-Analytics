@@ -98,7 +98,8 @@ mongod
 ## 📷 Screenshots
 
 
-
+![Image](https://github.com/user-attachments/assets/5d1d1932-aec0-4c3e-aab6-38f341b7f76e)
+![Image](https://github.com/user-attachments/assets/6bafcce7-78a4-4957-a67c-699c7646d856)
 
 
   
